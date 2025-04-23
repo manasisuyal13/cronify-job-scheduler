@@ -2,7 +2,7 @@
 
 Welcome to **Cronify Job Scheduler**! This is a flexible and easy-to-use Python-based job scheduler that allows you to schedule and manage jobs (tasks) with different intervals and priorities. It runs jobs in parallel threads, supports job retries, error logging, and provides a graphical user interface (GUI) to manage your scheduled jobs.
 
----
+--- 
 
 ## Features ✨
 
